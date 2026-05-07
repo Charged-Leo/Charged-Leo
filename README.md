@@ -52,14 +52,7 @@ I'm a final-year AI & Data Science student who loves building **practical AI sys
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Charged-Leo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Charged-Leo&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
