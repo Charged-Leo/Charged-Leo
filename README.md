@@ -25,19 +25,17 @@
 ---
 
 ## 🧠 About Me
-
-```python
-om = {
-    "degree"   : "B.Tech in AI & Data Science — VIIT Pune (CPI: 7.71)",
-    "status"   : "Final year | Open to AI/ML internships & entry-level roles",
-    "focus"    : ["NLP Pipelines", "Generative AI", "Local LLM Deployment", "RAG Systems"],
-    "stack"    : ["Python", "HuggingFace", "LangChain", "FastAPI", "Docker"],
-    "motto"    : "If it runs on-device, it's already better."
-}
-```
-
-I'm a final-year AI & Data Science student who loves building **practical AI systems** — from NLP document pipelines that process 10k+ records a day, to debate-bots that run entirely on your GPU with no internet required. I care about making AI accessible to non-technical users, not just other engineers.
-
+ 
+| | |
+|---|---|
+| 🎓 **Degree** | B.Tech AI & Data Science — VIIT Pune (CPI: 7.71) |
+| 🔍 **Status** | Final year · Open to AI/ML internships & entry-level roles |
+| 🎯 **Focus** | NLP Pipelines · Generative AI · Local LLM Deployment · RAG Systems |
+| ⚙️ **Stack** | Python · HuggingFace · LangChain · FastAPI · Docker |
+| 💡 **Motto** | *If it runs on-device, it's already better.* |
+ 
+Final-year AI & Data Science student at VIIT Pune. I build **practical AI systems** — from NLP pipelines processing 10k+ records/day to debate-bots running 100% offline on local GPUs. Obsessed with making AI accessible to non-technical users, not just engineers.
+ 
 ---
 
 
