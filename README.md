@@ -28,7 +28,7 @@
  
 | | |
 |---|---|
-| 🎓 **Degree** | B.Tech AI & Data Science — VIIT Pune (CPI: 7.71) |
+| 🎓 **Degree** | B.Tech AI & Data Science — VIIT Pune |
 | 🔍 **Status** | Final year · Open to AI/ML internships & entry-level roles |
 | 🎯 **Focus** | NLP Pipelines · Generative AI · Local LLM Deployment · RAG Systems |
 | ⚙️ **Stack** | Python · HuggingFace · LangChain · FastAPI · Docker |
